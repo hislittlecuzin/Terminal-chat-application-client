@@ -1,0 +1,5 @@
+F:\Documents\Programs\Lanugages\C#\TerminalClient\TerminalClient\bin\Debug\TerminalClient.exe
+F:\Documents\Programs\Lanugages\C#\TerminalClient\TerminalClient\bin\Debug\TerminalClient.pdb
+F:\Documents\Programs\Lanugages\C#\TerminalClient\TerminalClient\obj\Debug\TerminalClient.csproj.CoreCompileInputs.cache
+F:\Documents\Programs\Lanugages\C#\TerminalClient\TerminalClient\obj\Debug\TerminalClient.exe
+F:\Documents\Programs\Lanugages\C#\TerminalClient\TerminalClient\obj\Debug\TerminalClient.pdb
